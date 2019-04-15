@@ -1,0 +1,16 @@
+1 - Dataset
+A - (singles + deblends) VS multi (batch size 128, learn rate = 0.0001, drop out = 0.5)
+
+2 - Learning rate 
+0.001
+0.0005
+
+3 - Dropout
+0.01
+0.05
+
+4 - Batch size
+64
+256
+
+5 - Average pool instead of max
